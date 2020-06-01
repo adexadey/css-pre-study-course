@@ -64,3 +64,13 @@ input[type="text"], input[type="submit"] {
 	padding: 15px;
 }
 
+/* button to add more articles */
+.btn {
+	color: #fffff2;
+	background-color: #050401;
+	padding:15px;
+	margin: 4px 2px;
+	text-align: center;
+	font-size: 16px;
+	width: 50%;
+	box-shadow: 3px 3px 0 0 #e4572e;
